@@ -1,13 +1,11 @@
 Markdown Resumé
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
 
 Interests
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
+*   Working with Android
 
 
 Work Experience
