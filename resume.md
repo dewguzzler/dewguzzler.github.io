@@ -1,4 +1,4 @@
-Markdown Resumé
+Jesse Perkins Resumé
 ===============
 
 
@@ -11,52 +11,43 @@ Interests
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Army Soldier** (U.S.A)
 
-    Junior Resumé Maker, 2006 - 2007
+    Private, 2004-2005, Washington, D. C.
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    -  Participated in highly visible ceremonies for the President and other high ranking officials
+    -  Received Secret Security Clearance
+    -  Managed a team of four soldiers
 
-*   **\LaTeX\ + pdflatex**
+*   **Army Soldier** (U.S.A)
 
-    Senior Resumé Maker, 2008 - 2010
+    Specialist, 2006 - 2007, Fort Hood, TX
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    -   Managed a team of 8 soldiers
+    -   Built system to keep track of Soldiers and their respective Security Clearance levels and access badges
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+*   **Cornerstone Auto Brokers**
 
-    Web Resumé Intern, August 2010
+    Senior Car Attendent, 2007-2008
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    -   Managed the Car detailing and repairs at 3 used car lots
+    -   Insured customers were satisfied with the cars when they bought a car
 
-*   **Markdown with Pandoc**
+*   **Georgia Gwinnett College**
 
-    Resumé Architect, February 2011 - present
+    Junior, August 2011 - present
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+    -   Degree in Information Technology
+    -   Concentration in Software Development
+    -   Built an application for Android phones for the school
 
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Georgia Gwinnett College** (Lawrenceville, GA)
 
-    B.S. in Submodules, May 2012
+    B.S. in Information Technology, May 2014
 
 
 Skills
